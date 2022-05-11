@@ -82,6 +82,7 @@ body {
 
 .parent .container .col img {
     max-width: 100%;
+    min-width: 300px;
     margin-bottom: 30px;
 }
 
